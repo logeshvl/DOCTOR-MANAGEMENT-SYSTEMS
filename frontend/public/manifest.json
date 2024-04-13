@@ -1,0 +1,20 @@
+{
+  "name": "doctorManagemwnt",
+  "short_name": "B2S",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon/logo_B2S-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/logo_B2S-192x192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
